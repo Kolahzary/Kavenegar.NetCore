@@ -1,17 +1,13 @@
 # Kavenegar .NetCore SDK
 
-# <a href="http://kavenegar.com/rest.html">Kavenegar RESTful API Document</a>
+# [Kavenegar RESTful API Document](http://kavenegar.com/rest.html)
 If you need to future information about API document Please visit RESTful Document
 
 ## Installation
-<p>
-First of all, You need to make an account on Kavenegar from <a href="https://panel.kavenegar.com/Client/Membership/Register">Here</a>
-</p>
-<p>
-After that you just need to pick API-KEY up from <a href="http://panel.kavenegar.com/Client/setting/index">My Account</a> section.
-You can download the C# SDK <a href="https://github.com/Kolahzary/Kavenegar.NetCore/releases">Here</a> or just pull it.
-Anyway there is good tutorial about <a href="http://gun.io/blog/how-to-github-fork-branch-and-pull-request/">Pull  request</a>
-</p>
+First of all, You need to make an account on Kavenegar from [Here](https://panel.kavenegar.com/Client/Membership/Register)
+After that you just need to pick API-KEY up from [My Account](http://panel.kavenegar.com/Client/setting/index) section.
+You can download the C# SDK [Here](https://github.com/Kolahzary/Kavenegar.NetCore/releases) or just pull it.
+Anyway there is good tutorial about [Pull  request](http://gun.io/blog/how-to-github-fork-branch-and-pull-request/).
 
 ## Usage
 Well, There is an example to Send SMS by C#.
@@ -38,10 +34,8 @@ catch (Kavenegar.Exceptions.HttpException ex)
 ```
 
 ## Contribution
-Bug fixes, docs, and enhancements welcome! Please let us know <a href="mailto:support@kavenegar.com?Subject=SDK" target="_top">support@kavenegar.com</a>
-<hr>
-<div dir='rtl'>
-	
+Bug fixes, docs, and enhancements welcome! Please let us know [support@kavenegar.com](mailto:support@kavenegar.com?Subject=SDK)
+
 ## راهنما
 
 ### معرفی سرویس کاوه نگار
